@@ -4,7 +4,7 @@ The primary goal of this repository is to model players' ability at Poker (Texas
 Relevant files: 
 
 - README.md - Introduction
-- config.py - Styling options for visualisations
+- config.py - An admittedly non-optimal way to choose colours for different players.
 - more_styles.py - More styling options for visualisations (LinkedIn Style)
 - An_Exploration_into_Measuring_Luck_and_Skill_in_a_Zero-Sum_Game.ipynb - Complete Notebook
 - AllRecordedGames.csv - All results recorded in one place for easy analysis
