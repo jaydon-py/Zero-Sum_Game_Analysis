@@ -7,3 +7,4 @@ Relevant files:
 - config.py - Styling options for visualisations
 - more_styles.py - More styling options for visualisations (LinkedIn Style)
 - An_Exploration_into_Measuring_Luck_and_Skill_in_a_Zero-Sum_Game.ipynb - Complete Notebook
+- AllRecordedGames.csv - All results recorded in one place for easy analysis
