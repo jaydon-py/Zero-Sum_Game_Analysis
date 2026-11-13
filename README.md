@@ -8,3 +8,4 @@ Relevant files:
 - more_styles.py - More styling options for visualisations (LinkedIn Style)
 - An_Exploration_into_Measuring_Luck_and_Skill_in_a_Zero-Sum_Game.ipynb - Complete Notebook
 - AllRecordedGames.csv - All results recorded in one place for easy analysis
+- Full_Report.pdf - Full LaTeX PDF with all the maths and none of the code.
